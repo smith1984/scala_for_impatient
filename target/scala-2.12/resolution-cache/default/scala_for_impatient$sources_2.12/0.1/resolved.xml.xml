@@ -4,7 +4,7 @@
 		module="scala_for_impatient$sources_2.12"
 		revision="0.1"
 		status="integration"
-		publication="20190112130834"
+		publication="20190317183941"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>
